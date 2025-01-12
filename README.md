@@ -1,5 +1,6 @@
 # Verfit-be-v1
 * 함께 작업한 사람들
+    * https://github.com/Verfit2023
     * 김지안, 김이주, 신수빈, 이우흥
 
 * repo
