@@ -1,11 +1,11 @@
 # Verfit-be-v1
 * 함께 작업한 사람들
-  김지안, 김이주, 신수빈, 이우흥
+    * 김지안, 김이주, 신수빈, 이우흥
 
 * repo
-   be-v1 origin repo: https://github.com/Verfit2023/verfit_backend
-   be-v2 repo: https://github.com/jiankimr/Verfit-be-v2
-   fe repo: https://github.com/jiankimr/Verfit-fe
+    * be-v1 origin repo: https://github.com/Verfit2023/verfit_backend
+    * be-v2 repo: https://github.com/jiankimr/Verfit-be-v2
+    * fe repo: https://github.com/jiankimr/Verfit-fe
 
 # Usage
 * 설치
